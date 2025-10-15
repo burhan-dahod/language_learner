@@ -2,7 +2,7 @@ import nltk
 import json
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
-from .config import SLANG_DICT_PATH
+from src.config import SLANG_DICT_PATH
 
 # Download required NLTK data quietly
 nltk.download("stopwords", quiet=True)
