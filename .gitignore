@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+
+# Virtual environment folders
+venv/
+
+# Data and DBs
+data/SUBTLEX_US.xlsx
